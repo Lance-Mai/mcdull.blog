@@ -5,16 +5,16 @@ markdown: kramdown
 
 # 作者信息
 author: 
-  name: 李乾坤
+  name: 麦梁诗
   email: qiankun.li@qq.com
   link: 
   weibo: 
-  github: http://qiankunli.github.io
+  github: https://lance-mai.github.io
 
 # 站点信息
-title: 李乾坤的博客 
-description: 李乾坤的博客
-url: http://qiankunli.github.io
+title: 麦梁诗的博客 
+description: 麦梁诗的博客
+url: http://lance-mai.github.io
 rss_url: 
 
 # gavatar头像及Favicon
@@ -29,7 +29,7 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: qiankunli
+  shortname: lance-mai
 
 # gitment
 gitment:
@@ -51,3 +51,4 @@ locals:
   newest: 最新文章
 plugins:
 - jekyll-paginate
+
